@@ -66,18 +66,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "efecty-app:build"
+            "browserTarget": "Company.com:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "efecty-app:build:production"
+              "browserTarget": "Company.com:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "efecty-app:build"
+            "browserTarget": "Company.com:build"
           }
         },
         "test": {
@@ -114,11 +114,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "efecty-app:serve"
+            "devServerTarget": "Company.com:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "efecty-app:serve:production"
+              "devServerTarget": "Company.com:serve:production"
             }
           }
         }
