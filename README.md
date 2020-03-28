@@ -14,14 +14,14 @@ La aplicación esta compuesta por 3 contenedores:
 
 # Funcionamiento de la aplicación 
 
-El objetivo de la aplicación demo Web CRUD con MongoDB es generar un sistema de control de transacciones diarias por cliente de los establecimiento de la compañia Efecty, esta aplicación tiene tres pantallas principales de interacción con el usuario.
+El objetivo de la aplicación demo Web CRUD con MongoDB es generar un sistema de control de transacciones diarias por cliente de los establecimiento de la compañia Company.com, esta aplicación tiene tres pantallas principales de interacción con el usuario.
 
 La primera de ellas como se puede observar en la imagen inferior, consiste en la página de bienvenida al sistema, que le muestra al usuario dos botones, con las dos funcionalidades principales, las cuales son observar las transacciones realizadas y agregar una nueva transacción.
 
 <img width="960" alt="com" src="https://user-images.githubusercontent.com/60987042/77773230-4dcc1300-7017-11ea-813e-02d4b544df04.PNG">
 
 
-La siguiente parte es al seleccionar la opción de agregar una nueva transacción, donde se puede observar la pantalla con un formulario que obtiene los datos principales de control de una transacción, los cuales son: nombre, apellido, cedula, fecha de la transacción, dirección de residencia, ciudad, valor y tipo de transacción. Aquí lo que se espera es que los cajeros de las sedes de Efecty, registren los datos y mantengan en control las transacciones realizadas por los clientes de la empresa.
+La siguiente parte es al seleccionar la opción de agregar una nueva transacción, donde se puede observar la pantalla con un formulario que obtiene los datos principales de control de una transacción, los cuales son: nombre, apellido, cedula, fecha de la transacción, dirección de residencia, ciudad, valor y tipo de transacción. Aquí lo que se espera es que los cajeros de las sedes de Comapany.com, registren los datos y mantengan en control las transacciones realizadas por los clientes de la empresa.
 
 <img width="949" alt="tra" src="https://user-images.githubusercontent.com/60987042/77773359-7e13b180-7017-11ea-91f2-98e0eb354f24.PNG">
 
